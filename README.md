@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/></a>
 <!--
 **ushou2005/ushou2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
